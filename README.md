@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 🔭 Pythonista/Gopher
 - 😄 人生苦短，及时行乐
 - 🏠 欢迎访问我的博客： https://www.qinzhiqiang.xyz
 
