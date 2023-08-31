@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 Pythonista/Gopher
 - 😄 人生苦短，及时行乐
-- 🏠 欢迎访问我的博客： https://www.qinzhiqiang.xyz
+
 
 [![qzq1111's github stats](https://github-readme-stats.vercel.app/api?username=qzq1111&theme=calm&hide_border=true)](https://github.com/qzq1111)
 [![qzq111's langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qzq1111&theme=calm&hide_border=true)](https://github.com/qzq1111)
